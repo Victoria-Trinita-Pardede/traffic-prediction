@@ -1,0 +1,7 @@
+"id","site_code","sensor_mac","location_code","latitude","longitude","city","location_name","install_date","category_1","category_2","category_3","category_4","category_5","time_zone","location_name_long","location_direction","rain_threshold","road_capacity","max_capacity"
+40,idn,,idn_420,-6.171195,106.809416,Jakarta,Kyai Caringin,"2023-01-01",JKT TA,Jakarta,,"1.20|0.25",D,7,Kyai Caringin Inbound,Inbound,1022.0,5999.136,5999.136
+41,idn,,idn_425,-6.171326,106.809695,Jakarta,Kyai Caringin,"2023-01-01",JKT TA,Jakarta,,"1.20|0.25",D,7,Kyai Caringin Outbound,Outbound,1022.0,5557.0944,5999.136
+127,idn,,idn_985,-6.170579,106.813046,Jakarta,Balikpapan Gen1 Dash,"2024-02-27",AGI,Jakarta,,"1.20|0.25",D,7,Balikpapan Gen1 Dash Inbound,Inbound,1022.0,5999.136,5999.136
+128,idn,,idn_990,-6.170712,106.813381,Jakarta,Balikpapan Gen1 Dash,"2024-02-27",AGI,Jakarta,,"1.20|0.25",D,7,Balikpapan Gen1 Dash Outbound,Outbound,1022.0,5746.5408,5999.136
+32,idn,,idn_265,-6.169839,106.817397,Jakarta,Suryopranoto,"2022-02-18",JKT TA,Jakarta,,"1.20|0.25",D,7,Suryopranoto Inbound,Inbound,1022.0,5683.392,5683.392
+33,idn,,idn_260,-6.169979,106.81744,Jakarta,Suryopranoto,"2022-02-18",JKT TA,Jakarta,,"1.20|0.25",D,7,Suryopranoto Outbound,Outbound,0.0,5683.392,5683.392
